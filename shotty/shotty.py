@@ -131,8 +131,8 @@ def stop_instances(project):
 @instances.command('start')
 @click.option('--project', default=None,
     help='Only instances for project')
-def stop_instances(project):
-    "Stop EC2 instances"
+def start_instances(project):
+    "Start EC2 instances"
 
     instances = filter_instances(project)
 
