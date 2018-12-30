@@ -1,5 +1,6 @@
 # snapshotalyzer-3000
-Demo project to manage AWS EC2 instance snapshots
+Demo project to manage AWS EC2 instance snapshots,
+
 Part of Python for Beginners by A cloud guru
 
 ## About
